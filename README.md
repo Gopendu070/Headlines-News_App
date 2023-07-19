@@ -1,18 +1,30 @@
-# news_dekho
+# Headlines News App
 
-A new Flutter project.
+Headlines is a Flutter mobile application that provides users with the latest top headlines from different categories of various countries and also global news. The app fetches news data from the NewsAPI, allowing users to stay informed about current events and breaking news from around the world.
 
-## Getting Started
+# Features
+Top Headlines: Get access to the most recent and popular headlines across different categories like business, entertainment, health, science, sports, technology, and more.
 
-This project is a starting point for a Flutter application.
+ ◉ Country-specific News:
+  Choose from a list of countries to view the latest headlines relevant to that specific location and category.
 
-A few resources to get you started if this is your first Flutter project:
+ ◉ Global News: 
+  Stay updated on global news by exploring the global headlines section.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ ◉ Detailed News Articles: 
+  Read complete news articles with images and a summary for each headline.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ ◉ Search:
+  Seamlessly search for news articles based on keywords or topics of interest.
+  
+# API Key
+Headlines app uses the NewsAPI to fetch news data. To run the app successfully, you'll need to obtain an API key from NewsAPI and add it to the project.
+Follow this link to know more: https://newsapi.org/docs
 
-The app features a wide range of news categories, including   Sports, Technology, Entertainment, Health, and Science. By tapping on any category, users instantly access the top headlines from various countries around the globe.  With its personalized approach, users can stay informed about the topics that interest them most, without being overwhelmed by irrelevant information.
+# Credits
+◉ Flutter - Google's UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+
+◉ NewsAPI - A simple HTTP REST API for searching and retrieving live articles from all over the web.
+
+# Contribution
+If you'd like to contribute to the Headlines app, you're welcome to submit issues and pull requests on the GitHub repository. Please ensure to follow the standard coding practices and the Flutter style guide.

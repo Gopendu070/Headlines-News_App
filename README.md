@@ -16,6 +16,10 @@ Top Headlines: Get access to the most recent and popular headlines across differ
 
  ◉ Search:
   Seamlessly search for news articles based on keywords or topics of interest.
+
+# App Preview
+![ed659c4f-3130-4893-b63f-78fd97fedf91](https://github.com/Gopendu070/Headlines-News_App/assets/92077709/0522be09-05f8-4d61-86f3-1f3e143a26b7)
+
   
 # API Key
 Headlines app uses the NewsAPI to fetch news data. To run the app successfully, you'll need to obtain an API key from NewsAPI and add it to the project.

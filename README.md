@@ -1,6 +1,8 @@
 # Headlines News App
-
 Headlines is a Flutter mobile application that provides users with the latest top headlines from different categories of various countries and also global news. The app fetches news data from the NewsAPI, allowing users to stay informed about current events and breaking news from around the world.
+
+# Project Video Link
+https://drive.google.com/file/d/1aBKwJE1F0mDCFVs8MzB3I7qvU5PkYoL0/view?usp=sharing
 
 # Features
 Top Headlines: Get access to the most recent and popular headlines across different categories like business, entertainment, health, science, sports, technology, and more.
